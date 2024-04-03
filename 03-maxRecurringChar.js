@@ -48,3 +48,7 @@ function maxRecurringCharArrays(text) {
   return charArray[valuesArray.indexOf(maxCharValue)]
 }
 console.log('forming arrays from the character map method', maxRecurringCharArrays('Max Recurring Characters'))
+
+
+
+console.log('The For…In iteration is the fastest. With the Arrays method trailing behind by approximately 30%.')

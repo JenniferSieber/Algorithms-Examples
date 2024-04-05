@@ -1,1 +1,1 @@
-# Algorithm Examples for Strings
+# Algorithm Examples for Strings and Arrays

@@ -1,4 +1,4 @@
-# Algorithm Examples for Strings and Arrays
+# Algorithm Examples for Strings, Numbers and Arrays
 
 
 Utilizing Vanilla JavaScript
